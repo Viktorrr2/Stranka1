@@ -1,0 +1,17 @@
+.nadpis{
+    display:flex;
+    flex-direction: row;
+    margin: 0;
+    justify-content: center;
+    border: 2px solid black
+}
+body{
+    background-color: beige;
+}
+.popis{
+    color: black;
+margin-top: 5cm;
+display:flex;
+flex-direction: row;
+justify-content: center;
+}

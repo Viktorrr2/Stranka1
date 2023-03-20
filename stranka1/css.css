@@ -1,0 +1,47 @@
+.his{
+    color:black;
+    display:flex;
+    flex-direction: row;
+    margin: 0;
+    justify-content: center;
+    margin-top: 6cm;
+}
+body{
+    background: url(pozadi.jfif) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+} 
+
+.nadpis{
+    display:flex;
+    flex-direction: row;
+    margin: 0;
+    justify-content: center;
+    border: 2px solid black;
+}
+.Video{
+margin-top: 3cm;
+justify-content: center;
+
+}
+.obrazek{
+margin-top: 2cm;
+}
+.popis{
+font-size: 16px;
+ border: green;
+background-color: rgb(24, 22, 22); 
+ color: white;
+justify-content: center;
+
+}
+.popisv{
+ font-size: 16px;
+ border: green;
+background-color: rgb(24, 22, 22);
+ display: inline-block;
+  text-align: center;
+   color: white;
+}
